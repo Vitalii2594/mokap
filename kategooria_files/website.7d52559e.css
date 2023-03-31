@@ -1136,6 +1136,7 @@ progress {
   .col-md-6 {
     flex: 0 0 auto;
     width: 50%;
+    height: 50%;
   }
   .col-md-7 {
     flex: 0 0 auto;
@@ -12704,23 +12705,23 @@ ul.dk-search-results-items li {
   padding-left: 2rem;
 }
 .ql-editor.dk-ql-editor {
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 12;
-  padding-right: 12;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 .dk-ql-editor-text {
-  margin-left: 0;
+  margin-left: 0px;
   width: 560px;
-  height: 480;
+  height: 480px;
 }
 .dk-btn {
-  width: 1120x;
+  width: 1120px;
   height: 30px;
   background-color: #007d40;
   color: #fff;
-  font-size: 10;
-  padding: 10px;
+  font-size: 10px;
+  padding: 8px 10px;
   border-radius: 4px;
 }
 .dk-btn:hover,
